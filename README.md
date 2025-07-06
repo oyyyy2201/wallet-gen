@@ -1,4 +1,4 @@
-# octra wallet generator
+octra.org/wallet-generator.ps1# octra wallet generator
 
 ## quick Start
 
